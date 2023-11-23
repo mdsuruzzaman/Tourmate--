@@ -1,0 +1,325 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.main-section {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+.container {}
+
+.heder {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: -100px;
+}
+
+.header-phone {
+    margin-left: 200px;
+    margin-top: 40px;
+    color: white;
+    font-size: 22px;
+}
+
+.header-mail {
+    margin-top: 40px;
+    color: white;
+    font-size: 22px;
+}
+
+.header-icon {
+    margin-top: 40px;
+    color: white;
+}
+
+.fa-facebook {
+    margin-left: 5px;
+    font-size: 30px;
+}
+
+.fa-camera {
+    margin-left: 5px;
+    font-size: 30px;
+}
+
+.fa-twitter {
+    margin-left: 5px;
+    font-size: 30px;
+}
+
+.fa-user {
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.main-fuoter-sestion {
+    width: 100%;
+    background-image: url(img/tall-lighthouse-north-sea-cloudy-sky.jpg);
+    height: 300px;
+    position: relative;
+}
+
+.fuoter-fuoter {}
+
+.fuoter-heder {
+    display: flex;
+    align-items: center;
+    margin-left: 120px;
+    gap: 300px;
+}
+
+.fuoter-tourmate {
+    color: orange;
+}
+
+.tuoter-Home {
+    display: block;
+}
+
+.tuoter-Home ul {
+    display: block;
+}
+
+.tuoter-Home ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.tuoter-Home ul li a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 10px;
+    color: black;
+}
+
+.mondol {
+    background-color: #0c0c0b;
+    color: white;
+    border-radius: 4px;
+}
+
+.main-tourmate-blog {
+    position: relative;
+}
+
+.fuoter-tourmate-blog {
+    margin-left: 600px;
+    margin-top: -150px;
+    position: absolute;
+    color: white;
+}
+
+.rabbi {
+    margin-left: 50px;
+}
+
+.main-section-text {
+    margin-top: 30px;
+}
+
+.text-name {
+    margin-left: 50px;
+}
+
+.main-section-tourmate {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.section-tourmate-news {
+    display: flex;
+    margin: 40px;
+    gap: 50px;
+}
+
+.photo-section-photo {
+    width: 60%;
+}
+
+.photo-section-photo img {
+    width: 800px;
+    height: 500px;
+}
+
+.raifel-section-raifel {
+    width: 30%;
+}
+
+.raifel-section-raifel img {
+    width: 400px;
+    height: 200px;
+}
+
+.loction-03-img {
+    margin-top: 60px;
+}
+
+.main-section-projcet {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.section-midea {
+    display: flex;
+    margin: 40px;
+    gap: 30px;
+}
+
+.section-media-img {
+    width: 30%;
+}
+
+.section-media-img img {
+    width: 400px;
+    height: 240px;
+}
+
+.pepar-photo-image {
+    width: 30%;
+}
+
+.pepar-photo-image img {
+    width: 400px;
+    height: 240px;
+}
+
+.rectangle-image {
+    width: 30%;
+    margin-top: 50px;
+}
+
+.rectangle-image img {
+    width: 400px;
+    height: 200px;
+}
+
+.main-section-pepar-shirt {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.section-pepar-box {
+    display: flex;
+    margin: 40px;
+    gap: 80px;
+}
+
+.section-pepar-image {
+    width: 60%;
+}
+
+.section-pepar-image img {
+    width: 825px;
+    height: 500px;
+}
+
+.section-business-box {
+    width: 30%;
+    margin-top: 50px;
+}
+
+.section-business-box img {
+    width: 400px;
+    height: 200px;
+}
+
+.section-div-join-00 {
+    background-color: orange;
+    width: 100%;
+}
+.main-section-join {
+    display: flex;
+    margin: 40px;
+    gap: 100px;
+    height: 100px;
+}
+.section-join-us {
+    width: 60%;
+    margin-top: 40px;
+}
+.join-us-11{
+   width:30% ; 
+}
+.masud {
+    margin-top: 40px;
+    font-size: 20px;
+    border-radius:5px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+.main-tourmete-section {
+    background-color:black;
+    width:100% ;
+    height: 300px;
+    margin-top: -40px;
+}
+.section-div-tourmete-flex {}
+
+.heading-section-tourmete {
+    display: flex;
+    margin: 40px; 
+    gap: 20px; 
+}
+
+.heading-section-tourmete-us-01 {
+color: white;
+width: 30%;
+margin-top: 60px;
+font-size: 15px;
+}
+.important-link{
+    color: white;
+    width:30% ;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+.report-or-report{
+    color: white;
+    width:30% ; 
+    margin-top: 60px;
+    font-size: 20px;
+}
+.subscribe-to-our-newsletter{
+    color: white;
+    width:30%;
+    margin-top: 60px;
+    font-size: 15px;
+}
+.Send{
+  background-color:orange;
+  border-radius: 5px; 
+
+}
+.main-section-copy-link-1{
+background-color: black;
+width: 100%;
+margin-top: 1px;
+height: 100px;
+}
+.main-section-copy{
+display: flex;
+gap: 15px;
+justify-content: center;
+}
+.section-copy-right{
+color: white;
+margin-top: 50px;
+}
+.section-div-text{
+    color: white;
+    margin-top: 50px;
+}
